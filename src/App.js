@@ -39,7 +39,7 @@ const App = () => {
       options={{
         background: {
           color: {
-            value: "#282c34",
+            value: "#004dcf",
           },
         },
         fpsLimit: 120,
